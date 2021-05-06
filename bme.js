@@ -1,4 +1,4 @@
-const dataURL = 'http://127.0.0.1/project/inventory.data';
+const dataURL = 'inventory.data';
 
 var serverCopy;
 
