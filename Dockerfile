@@ -7,4 +7,4 @@ CMD "echo" "Maintainer : James Diller"
 ADD https://github.com/jwdiller/csc227project.git
 CMD "echo" "github source added"
 
-RUN CHMOD 777 inventory.data
+CMD "CHMOD 777 inventory.data"
