@@ -11,6 +11,9 @@
 	<p>
 		Application made by James Diller
 	</p>
+	<?php
+	echo "Testing...";
+	?>
 	<script src="bme.js"></script>
 </body>
 </html>
