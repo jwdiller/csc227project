@@ -1,4 +1,4 @@
-FROM scratch
+FROM httpd:2.4
 CMD "echo" "Building Dockerfile from Scratch"
 
 MAINTAINER james_diller
